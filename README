@@ -1,0 +1,7 @@
+A Password Generator in Java creates secure passwords based on user preferences. It uses SecureRandom for randomness and predefined character sets (uppercase, lowercase, digits, special characters). The program prompts the user for password length, randomly selects characters, and shuffles them for security.
+Steps:
+Define character sets.
+Get user input for password length.
+Randomly select characters.
+Shuffle and display the password.
+This can be implemented in a console-based or GUI application using Swing/JavaFX. It ensures strong, unpredictable passwords for security purposes.
